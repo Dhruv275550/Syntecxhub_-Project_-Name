@@ -45,7 +45,7 @@ Installation and Setup
 
 1. Clone the repository
 
-git clone https://github.com/your-username/expense-tracker.git
+git clone  https://expense-tracker-j6if1mxnc-tomarrahu96-7931.vercel.app
 
 2. Navigate to the project directory
 
